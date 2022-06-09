@@ -11,6 +11,8 @@ The program is capable of executing all the Super Chip 8 roms and has backward c
   
   
 ## References
- https://austinmorlan.com/posts/chip8_emulator/
-http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#00FB
+  https://austinmorlan.com/posts/chip8_emulator/
+  
+  http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#00FB
+  
   http://johnearnest.github.io/Octo/docs/SuperChip.html
